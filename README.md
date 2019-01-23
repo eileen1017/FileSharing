@@ -1,5 +1,3 @@
-Link for File Sharing: http://ec2-18-191-243-37.us-east-2.compute.amazonaws.com/~lilin1/FileSharing.html
-
 ###Log in:
 Username: admin   
 Password: admin   
